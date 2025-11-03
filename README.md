@@ -6,6 +6,9 @@
 [![pdfplumber](https://img.shields.io/badge/pdfplumber-PDF%20Parsing-yellow?logo=adobeacrobatreader&logoColor=000)](https://github.com/jsvine/pdfplumber)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**[🎯 Live Demo — Try the App Here](https://cv-screener-streamlit.streamlit.app)**  
+*(Runs directly in your browser — no installation)*
+
 
 An intelligent Streamlit web application that automatically analyzes and ranks PDF resumes based on customizable HR criteria.  
 Fully built with **Python**, designed for recruiters, data analysts, and HR professionals.

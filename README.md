@@ -1,4 +1,4 @@
-# 📄 CV Sorting & Scoring App (Streamlit) *(personnal project)*
+# 📄 CV Sorting & Scoring App (Streamlit) *(personal project)*
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -95,7 +95,7 @@ Below is an overview of the **Streamlit application interface**, showcasing its 
 > 🧡 The layout and color palette were customized through a dedicated CSS theme and `config.toml` file for a modern look.
 
 ![Interface Overview](assets/Screenshot_1.png)
-
+![Interface Overview](assets/Screenshot_2.png)
 ---
 
 ## Local Installation
@@ -121,4 +121,7 @@ Then open your browser at http://localhost:8501
 - **zipfile / io** → In-memory ZIP generation for selected CVs  
 - **Custom CSS + config.toml** → Visual theming and layout styling
 
+--- 
 
+## Licence
+MIT – Free to use and share with attribution.

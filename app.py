@@ -462,7 +462,7 @@ with left:
         type_contrat_pref = st.multiselect(
             "Contrats acceptés",
             ["CDI", "CDD", "Alternance", "Stage", "Freelance"],
-            ["CDI", "Alternance"]
+            ["CDI"]
         )
     with c2:
         temps_pref = st.multiselect(
@@ -693,4 +693,5 @@ st.markdown("""
 <div style='text-align:center; color:#6B7280; font-size:0.9rem; margin-top:2rem;'>
     © 2025 — <b>Dounia Pihan</b> · Data Analyst
 </div>
+
 """, unsafe_allow_html=True)
